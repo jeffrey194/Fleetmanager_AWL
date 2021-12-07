@@ -51,7 +51,7 @@ public static class HelloWorldPublisher
         for (int count = 0; count < sampleCount; count++)
         {
             // Modify the data to be sent here
-            sample.msg = $"HALLO! {count}";
+            sample.msg = $"HALLo geert! {count}";
             Console.WriteLine($"Writing HelloWorld, count {count}");
 
             writer.Write(sample);
