@@ -436,17 +436,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JDI\\OneDrive - Windesheim Office365\\Documents\\rticonnextdds-getting-started-master\\2_hello_world\\csharp\\hello_world.csproj",
+      "projectUniqueName": "C:\\Users\\JDI\\Source\\Repos\\jeffrey194\\Fleetmanager_AWL\\hello_world.csproj",
       "projectName": "hello_world",
-      "projectPath": "C:\\Users\\JDI\\OneDrive - Windesheim Office365\\Documents\\rticonnextdds-getting-started-master\\2_hello_world\\csharp\\hello_world.csproj",
+      "projectPath": "C:\\Users\\JDI\\Source\\Repos\\jeffrey194\\Fleetmanager_AWL\\hello_world.csproj",
       "packagesPath": "C:\\Users\\JDI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JDI\\OneDrive - Windesheim Office365\\Documents\\rticonnextdds-getting-started-master\\2_hello_world\\csharp\\obj\\",
+      "outputPath": "C:\\Users\\JDI\\Source\\Repos\\jeffrey194\\Fleetmanager_AWL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JDI\\OneDrive - Windesheim Office365\\Documents\\rticonnextdds-getting-started-master\\2_hello_world\\csharp\\NuGet.Config",
+        "C:\\Users\\JDI\\Source\\Repos\\jeffrey194\\Fleetmanager_AWL\\NuGet.Config",
         "C:\\Users\\JDI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
