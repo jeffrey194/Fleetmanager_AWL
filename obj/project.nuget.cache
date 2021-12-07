@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HC/a+3z287JQOu0le8WxcAHj7bp9G+U+krrvoUI5hcY8GyMflG9AyrbIV3/WY7HNeLITw2/ZWY0lMj4UF7oIOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JDI\\OneDrive - Windesheim Office365\\Documents\\rticonnextdds-getting-started-master\\2_hello_world\\csharp\\hello_world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JDI\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\rti.connextdds\\6.1.0\\rti.connextdds.6.1.0.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\rti.connextdds.extra\\6.1.0\\rti.connextdds.extra.6.1.0.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\rti.connextdds.native\\6.1.0\\rti.connextdds.native.6.1.0.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\system.commandline\\2.0.0-beta1.21308.1\\system.commandline.2.0.0-beta1.21308.1.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JDI\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
